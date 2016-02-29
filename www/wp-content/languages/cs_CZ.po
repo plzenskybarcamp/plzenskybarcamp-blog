@@ -2017,153 +2017,153 @@ msgstr "Neplatný příspěvek"
 msgid "Only a static class method or function can be used in an uninstall hook."
 msgstr "Pro možnost registrace vlastní funkce spouštěné během případného odinstalování pluginu je třeba použít funkci nebo metodu statické třídy."
 
-#: wp-includes/pluggable.php:1701
+#: wp-includes/pluggable.php:1710
 msgid "[%s] Your username and password"
 msgstr "[%s] Vaše uživatelské jméno a heslo"
 
-#: wp-includes/pluggable.php:1698
+#: wp-includes/pluggable.php:1707
 msgid "Password: %s"
 msgstr "Heslo: %s"
 
-#: wp-includes/pluggable.php:1692
+#: wp-includes/pluggable.php:1701
 msgid "[%s] New User Registration"
 msgstr "[%s] Registrace nového uživatele"
 
-#: wp-includes/pluggable.php:1689 wp-includes/pluggable.php:1697
+#: wp-includes/pluggable.php:1698 wp-includes/pluggable.php:1706
 #: wp-login.php:365
 msgid "Username: %s"
 msgstr "Uživatelské jméno: %s"
 
-#: wp-includes/pluggable.php:1688
+#: wp-includes/pluggable.php:1697
 msgid "New user registration on your site %s:"
 msgstr "Registrace nového uživatele na webu %s."
 
-#: wp-includes/pluggable.php:1665
+#: wp-includes/pluggable.php:1674
 msgid "[%s] Password Lost/Changed"
 msgstr "[%s] Heslo zapomenuto/změněno"
 
-#: wp-includes/pluggable.php:1661
+#: wp-includes/pluggable.php:1670
 msgid "Password Lost and Changed for user: %s"
 msgstr "Zapomenuté heslo bylo změněno pro uživatele: %s"
 
-#: wp-includes/pluggable.php:1598
+#: wp-includes/pluggable.php:1607
 msgid "[%1$s] Please moderate: \"%2$s\""
 msgstr "[%1$s] Žádost o schválení: \"%2$s\""
 
-#: wp-includes/pluggable.php:1594
+#: wp-includes/pluggable.php:1603
 msgid "Currently %s comment is waiting for approval. Please visit the moderation panel:"
 msgid_plural "Currently %s comments are waiting for approval. Please visit the moderation panel:"
 msgstr[0] "Aktuálně čeká na schválení %s komentář. Měli byste ho schválit nebo odmítnout v příslušné administrační sekci:"
 msgstr[1] "Aktuálně čekají na schválení %s komentáře. Měli byste je schválit nebo odmítnout v příslušné administrační sekci:"
 msgstr[2] "Aktuálně čeká na schválení %s komentářů. Měli byste je schválit nebo odmítnout v příslušné administrační sekci:"
 
-#: wp-includes/pluggable.php:1587
+#: wp-includes/pluggable.php:1596
 msgid "Approve it: %s"
 msgstr "Schválit: %s"
 
-#: wp-includes/pluggable.php:1577
+#: wp-includes/pluggable.php:1586
 msgid "A new comment on the post \"%s\" is waiting for your approval"
 msgstr "Nový komentář čeká na schválení: \"%s\""
 
-#: wp-includes/pluggable.php:1574
+#: wp-includes/pluggable.php:1583
 msgid "Pingback excerpt: "
 msgstr "Stručný výpis pingbacku:"
 
-#: wp-includes/pluggable.php:1569
+#: wp-includes/pluggable.php:1578
 msgid "A new pingback on the post \"%s\" is waiting for your approval"
 msgstr "Nový pingback čeká na schválení: \"%s\""
 
-#: wp-includes/pluggable.php:1566
+#: wp-includes/pluggable.php:1575
 msgid "Trackback excerpt: "
 msgstr "Stručný výpis trackbacku:"
 
-#: wp-includes/pluggable.php:1561
+#: wp-includes/pluggable.php:1570
 msgid "A new trackback on the post \"%s\" is waiting for your approval"
 msgstr "Nový trackback čeká na schválení: \"%s\""
 
-#: wp-includes/pluggable.php:1466 wp-includes/pluggable.php:1592
+#: wp-includes/pluggable.php:1475 wp-includes/pluggable.php:1601
 msgid "Spam it: %s"
 msgstr "Označit jako spam: %s"
 
-#: wp-includes/pluggable.php:1465 wp-includes/pluggable.php:1591
+#: wp-includes/pluggable.php:1474 wp-includes/pluggable.php:1600
 msgid "Delete it: %s"
 msgstr "Smazat: %s"
 
-#: wp-includes/pluggable.php:1463 wp-includes/pluggable.php:1589
+#: wp-includes/pluggable.php:1472 wp-includes/pluggable.php:1598
 msgid "Trash it: %s"
 msgstr "Odstranit: %s"
 
-#: wp-includes/pluggable.php:1459
+#: wp-includes/pluggable.php:1468
 msgid "Permalink: %s"
 msgstr "Trvalý odkaz: %s"
 
 #. translators: 1: blog name, 2: post title
-#: wp-includes/pluggable.php:1455
+#: wp-includes/pluggable.php:1464
 msgid "[%1$s] Comment: \"%2$s\""
 msgstr "[%1$s] Komentář: \"%2$s\""
 
-#: wp-includes/pluggable.php:1453
+#: wp-includes/pluggable.php:1462
 msgid "You can see all comments on this post here:"
 msgstr "Zobrazit všechny související komentáře přímo na webu:"
 
-#: wp-includes/pluggable.php:1451 wp-includes/pluggable.php:1582
+#: wp-includes/pluggable.php:1460 wp-includes/pluggable.php:1591
 msgid "Whois: %s"
 msgstr "Whois: %s"
 
-#: wp-includes/pluggable.php:1449 wp-includes/pluggable.php:1580
-#: wp-includes/pluggable.php:1690
+#: wp-includes/pluggable.php:1458 wp-includes/pluggable.php:1589
+#: wp-includes/pluggable.php:1699
 msgid "E-mail: %s"
 msgstr "Email: %s"
 
 #. translators: 1: comment author, 2: author IP, 3: author domain
-#: wp-includes/pluggable.php:1448 wp-includes/pluggable.php:1579
+#: wp-includes/pluggable.php:1457 wp-includes/pluggable.php:1588
 msgid "Author: %1$s (IP: %2$s, %3$s)"
 msgstr "Autor: %1$s (IP: %2$s, %3$s)"
 
-#: wp-includes/pluggable.php:1446
+#: wp-includes/pluggable.php:1455
 msgid "New comment on your post \"%s\""
 msgstr "Nový komentář: \"%s\""
 
 #. translators: 1: blog name, 2: post title
-#: wp-includes/pluggable.php:1443
+#: wp-includes/pluggable.php:1452
 msgid "[%1$s] Pingback: \"%2$s\""
 msgstr "[%1$s] Pingback: \"%2$s\""
 
-#: wp-includes/pluggable.php:1441
+#: wp-includes/pluggable.php:1450
 msgid "You can see all pingbacks on this post here:"
 msgstr "Zobrazit všechny související pingbacky přímo na webu:"
 
-#: wp-includes/pluggable.php:1436
+#: wp-includes/pluggable.php:1445
 msgid "New pingback on your post \"%s\""
 msgstr "Nový pingback: \"%s\""
 
 #. translators: 1: blog name, 2: post title
-#: wp-includes/pluggable.php:1433
+#: wp-includes/pluggable.php:1442
 msgid "[%1$s] Trackback: \"%2$s\""
 msgstr "[%1$s] Trackback: \"%2$s\""
 
-#: wp-includes/pluggable.php:1431
+#: wp-includes/pluggable.php:1440
 msgid "You can see all trackbacks on this post here:"
 msgstr "Zobrazit všechny související trackbacky přímo na webu:"
 
-#: wp-includes/pluggable.php:1430 wp-includes/pluggable.php:1440
-#: wp-includes/pluggable.php:1452 wp-includes/pluggable.php:1583
+#: wp-includes/pluggable.php:1439 wp-includes/pluggable.php:1449
+#: wp-includes/pluggable.php:1461 wp-includes/pluggable.php:1592
 msgid "Comment: %s"
 msgstr "Komentář: %s"
 
 #. translators: 1: website name, 2: website IP, 3: website hostname
-#: wp-includes/pluggable.php:1428 wp-includes/pluggable.php:1438
-#: wp-includes/pluggable.php:1564 wp-includes/pluggable.php:1572
+#: wp-includes/pluggable.php:1437 wp-includes/pluggable.php:1447
+#: wp-includes/pluggable.php:1573 wp-includes/pluggable.php:1581
 msgid "Website: %1$s (IP: %2$s, %3$s)"
 msgstr "Webová stránka: %1$s (IP: %2$s, %3$s)"
 
-#: wp-includes/pluggable.php:1429 wp-includes/pluggable.php:1439
-#: wp-includes/pluggable.php:1450 wp-includes/pluggable.php:1565
-#: wp-includes/pluggable.php:1573 wp-includes/pluggable.php:1581
+#: wp-includes/pluggable.php:1438 wp-includes/pluggable.php:1448
+#: wp-includes/pluggable.php:1459 wp-includes/pluggable.php:1574
+#: wp-includes/pluggable.php:1582 wp-includes/pluggable.php:1590
 msgid "URL: %s"
 msgstr "URL: %s"
 
-#: wp-includes/pluggable.php:1426
+#: wp-includes/pluggable.php:1435
 msgid "New trackback on your post \"%s\""
 msgstr "Nový trackback: \"%s\""
 
@@ -2550,220 +2550,220 @@ msgstr "<strong>Konstanty VHOST a SUBDOMAIN_INSTALL mají definované konfliktn�
 msgid "The constant <code>VHOST</code> <strong>is deprecated</strong>. Use the boolean constant <code>SUBDOMAIN_INSTALL</code> in wp-config.php to enable a subdomain configuration. Use is_subdomain_install() to check whether a subdomain configuration is enabled."
 msgstr "Konstanta <code>VHOST</code> už <strong>není podporována</strong> a pro možnost vytváření nových webů v podobě subdomén použijte prosím v souboru wp-config.php konstantu <code>SUBDOMAIN_INSTALL</code> (boolean). Pomocí funkce is_subdomain_install() můžete jednoduše zkontrolovat, zda jsou subdomény pro vytváření webů opravdu povoleny."
 
-#: wp-includes/media.php:3113
+#: wp-includes/media.php:3115
 msgid "Add to Video Playlist"
 msgstr "Přidat do seznamu"
 
-#: wp-includes/media.php:3112
+#: wp-includes/media.php:3114
 msgid "Add to video playlist"
 msgstr "Přidat soubor do video seznamu"
 
-#: wp-includes/media.php:3111
+#: wp-includes/media.php:3113
 msgid "Update video playlist"
 msgstr "Aktualizovat video seznam"
 
-#: wp-includes/media.php:3110
+#: wp-includes/media.php:3112
 msgid "Insert video playlist"
 msgstr "Vložit video seznam"
 
-#: wp-includes/media.php:3109
+#: wp-includes/media.php:3111
 msgid "&#8592; Cancel Video Playlist"
 msgstr "&#8592; Zrušit úpravy"
 
-#: wp-includes/media.php:3108
+#: wp-includes/media.php:3110
 msgid "Edit Video Playlist"
 msgstr "Upravit video seznam"
 
-#: wp-includes/media.php:3107
+#: wp-includes/media.php:3109
 msgid "Create Video Playlist"
 msgstr "Vytvořit video seznam"
 
-#: wp-includes/media.php:3106
+#: wp-includes/media.php:3108
 msgid "Drag and drop to reorder videos."
 msgstr "Pokud chcete video soubory libovolně seřadit, tak je stačí snadno přesunout pomocí myši."
 
-#: wp-includes/media.php:3103
+#: wp-includes/media.php:3105
 msgid "Add to Audio Playlist"
 msgstr "Přidat do seznamu"
 
-#: wp-includes/media.php:3102
+#: wp-includes/media.php:3104
 msgid "Add to audio playlist"
 msgstr "Přidat soubor do audio seznamu"
 
-#: wp-includes/media.php:3101
+#: wp-includes/media.php:3103
 msgid "Update audio playlist"
 msgstr "Aktualizovat audio seznam"
 
-#: wp-includes/media.php:3100
+#: wp-includes/media.php:3102
 msgid "Insert audio playlist"
 msgstr "Vložit audio seznam"
 
-#: wp-includes/media.php:3099
+#: wp-includes/media.php:3101
 msgid "&#8592; Cancel Audio Playlist"
 msgstr "&#8592; Zrušit úpravy"
 
-#: wp-includes/media.php:3098
+#: wp-includes/media.php:3100
 msgid "Edit Audio Playlist"
 msgstr "Upravit audio seznam"
 
-#: wp-includes/media.php:3097
+#: wp-includes/media.php:3099
 msgid "Create Audio Playlist"
 msgstr "Vytvořit audio seznam"
 
-#: wp-includes/media.php:3096
+#: wp-includes/media.php:3098
 msgid "Drag and drop to reorder tracks."
 msgstr "Pokud chcete audio soubory libovolně seřadit, tak je stačí snadno přesunout pomocí myši."
 
-#: wp-includes/media.php:3093
+#: wp-includes/media.php:3095
 msgid "Add Subtitles"
 msgstr "Přidat titulky"
 
-#: wp-includes/media.php:3092
+#: wp-includes/media.php:3094
 msgid "Select Poster Image"
 msgstr "Zvolit náhledový obrázek"
 
-#: wp-includes/media.php:3090
+#: wp-includes/media.php:3092
 msgid "Add Video Source"
 msgstr "Přidat další formát pro video soubor"
 
-#: wp-includes/media.php:3089
+#: wp-includes/media.php:3091
 msgid "Replace Video"
 msgstr "Nahradit video"
 
-#: wp-includes/media.php:3088
+#: wp-includes/media.php:3090
 msgid "Video Details"
 msgstr "Podrobné informace o video souboru"
 
-#: wp-includes/media.php:3084
+#: wp-includes/media.php:3086
 msgid "Add Audio Source"
 msgstr "Přidat další formát pro audio soubor"
 
-#: wp-includes/media.php:3083
+#: wp-includes/media.php:3085
 msgid "Replace Audio"
 msgstr "Nahradit audio"
 
-#: wp-includes/media.php:3082
+#: wp-includes/media.php:3084
 msgid "Audio Details"
 msgstr "Podrobné informace o audio souboru"
 
-#: wp-includes/media.php:3079
+#: wp-includes/media.php:3081
 msgid "There has been an error cropping your image."
 msgstr "Během ořezávání zvoleného obrázku došlo k nečekané chybě."
 
-#: wp-includes/media.php:3077
+#: wp-includes/media.php:3079
 msgid "Cropping&hellip;"
 msgstr "Probíhá ořezávání&hellip;"
 
-#: wp-includes/media.php:3076
+#: wp-includes/media.php:3078
 msgid "Crop your image"
 msgstr "Oříznout obrázek"
 
-#: wp-includes/media.php:3075
+#: wp-includes/media.php:3077
 msgid "Crop Image"
 msgstr "Oříznout obrázek"
 
-#: wp-includes/media.php:3074
+#: wp-includes/media.php:3076
 msgid "Skip Cropping"
 msgstr "Neořezávat obrázek"
 
-#: wp-includes/media.php:3073
+#: wp-includes/media.php:3075
 msgid "Select and Crop"
 msgstr "Zvolit obrázek a oříznout"
 
-#: wp-includes/media.php:3068 wp-includes/media.php:3085
-#: wp-includes/media.php:3091
+#: wp-includes/media.php:3070 wp-includes/media.php:3087
+#: wp-includes/media.php:3093
 msgid "Cancel Edit"
 msgstr "Zrušit úpravy"
 
-#: wp-includes/media.php:3067
+#: wp-includes/media.php:3069
 msgid "Replace Image"
 msgstr "Nahradit obrázek"
 
-#: wp-includes/media.php:3066
+#: wp-includes/media.php:3068
 msgid "Image Details"
 msgstr "Podrobné informace o obrázku"
 
-#: wp-includes/media.php:3063
+#: wp-includes/media.php:3065
 msgid "Reverse order"
 msgstr "Seřadit opačně"
 
-#: wp-includes/media.php:3062
+#: wp-includes/media.php:3064
 msgid "Add to Gallery"
 msgstr "Přidat do galerie"
 
-#: wp-includes/media.php:3061
+#: wp-includes/media.php:3063
 msgid "Add to gallery"
 msgstr "Přidat do galerie"
 
-#: wp-includes/media.php:3060
+#: wp-includes/media.php:3062
 msgid "Update gallery"
 msgstr "Aktualizovat galerii"
 
-#: wp-includes/media.php:3059
+#: wp-includes/media.php:3061
 msgid "Insert gallery"
 msgstr "Vložit galerii"
 
-#: wp-includes/media.php:3058
+#: wp-includes/media.php:3060
 msgid "&#8592; Cancel Gallery"
 msgstr "&#8592; Zrušit úpravy"
 
-#: wp-includes/media.php:3057
+#: wp-includes/media.php:3059
 msgid "Edit Gallery"
 msgstr "Upravit galerii"
 
-#: wp-includes/media.php:3056
+#: wp-includes/media.php:3058
 msgid "Create Gallery"
 msgstr "Vytvořit galerii"
 
-#: wp-includes/media.php:3053
+#: wp-includes/media.php:3055
 msgid "Set featured image"
 msgstr "Zvolit náhledový obrázek"
 
-#: wp-includes/media.php:3052
+#: wp-includes/media.php:3054
 msgid "Set Featured Image"
 msgstr "Náhledový obrázek"
 
-#: wp-includes/media.php:3049
+#: wp-includes/media.php:3051
 msgid "Insert from URL"
 msgstr "Vložit z URL adresy"
 
-#: wp-includes/media.php:3043
+#: wp-includes/media.php:3045
 msgid "No media attachments found."
 msgstr "Nebyly nalezeny žádné mediální soubory."
 
-#: wp-includes/media.php:3042
+#: wp-includes/media.php:3044
 msgid "Search Media"
 msgstr "Hledání mediálních souborů"
 
-#: wp-includes/media.php:3041
+#: wp-includes/media.php:3043
 msgid "Filter by type"
 msgstr "Filtrovat podle formátu"
 
-#: wp-includes/media.php:3040
+#: wp-includes/media.php:3042
 msgid "Filter by date"
 msgstr "Filtrovat podle data"
 
-#: wp-includes/media.php:3037
+#: wp-includes/media.php:3039
 msgid "Delete Selected"
 msgstr "Smazat zvolené položky"
 
-#: wp-includes/media.php:3036
+#: wp-includes/media.php:3038
 msgid "Untrash Selected"
 msgstr "Obnovit zvolené položky"
 
-#: wp-includes/media.php:3035
+#: wp-includes/media.php:3037
 msgid "Trash Selected"
 msgstr "Odstranit zvolené položky"
 
-#: wp-includes/media.php:3034
+#: wp-includes/media.php:3036
 msgid "Cancel Selection"
 msgstr "Zrušit hromadné úpravy"
 
-#: wp-includes/media.php:3033
+#: wp-includes/media.php:3035
 msgid "Bulk Select"
 msgstr "Hromadné úpravy"
 
-#: wp-includes/media.php:3032
+#: wp-includes/media.php:3034
 msgid ""
 "You are about to trash these items.\n"
 "  'Cancel' to stop, 'OK' to delete."
@@ -2771,7 +2771,7 @@ msgstr ""
 "Chystáte se odstranit zvolené položky.\n"
 "  Akci můžete zastavit kliknutím na 'Storno' nebo potvrdit pomocí 'OK'."
 
-#: wp-includes/media.php:3031
+#: wp-includes/media.php:3033
 msgid ""
 "You are about to permanently delete these items.\n"
 "  'Cancel' to stop, 'OK' to delete."
@@ -2779,7 +2779,7 @@ msgstr ""
 "Chystáte se nenávratně smazat zvolené položky.\n"
 "  Akci můžete zastavit kliknutím na 'Storno' nebo potvrdit pomocí 'OK'."
 
-#: wp-includes/media.php:3030
+#: wp-includes/media.php:3032
 msgid ""
 "You are about to permanently delete this item.\n"
 "  'Cancel' to stop, 'OK' to delete."
@@ -2787,72 +2787,72 @@ msgstr ""
 "Chystáte se nenávratně smazat zvolenou položku.\n"
 "  Akci můžete zastavit kliknutím na 'Storno' nebo potvrdit pomocí 'OK'."
 
-#: wp-includes/media.php:3029
+#: wp-includes/media.php:3031
 msgid "Uploaded to this post"
 msgstr "Přiřazeno k příspěvku"
 
-#: wp-includes/media.php:3029
+#: wp-includes/media.php:3031
 msgid "Uploaded to this page"
 msgstr "Přiřazeno ke stránce"
 
-#: wp-includes/media.php:3028
+#: wp-includes/media.php:3030
 msgctxt "noun"
 msgid "Trash"
 msgstr "Koš"
 
-#: wp-includes/media.php:3027
+#: wp-includes/media.php:3029
 msgid "Unattached"
 msgstr "Nepřiřazeno"
 
-#: wp-includes/media.php:3026
+#: wp-includes/media.php:3028
 msgid "Insert into post"
 msgstr "Vložit do příspěvku"
 
-#: wp-includes/media.php:3026
+#: wp-includes/media.php:3028
 msgid "Insert into page"
 msgstr "Vložit do stránky"
 
-#: wp-includes/media.php:3024
+#: wp-includes/media.php:3026
 msgid "All dates"
 msgstr "&mdash; Datum &mdash;"
 
-#: wp-includes/media.php:3023
+#: wp-includes/media.php:3025
 msgid "All media items"
 msgstr "Všechny mediální soubory"
 
-#: wp-includes/media.php:3022
+#: wp-includes/media.php:3024
 msgid "&#8592; Return to library"
 msgstr "&#8592; Zpět do Knihovny médií"
 
-#: wp-includes/media.php:3021
+#: wp-includes/media.php:3023
 msgid "Create a new video playlist"
 msgstr "Vytvořit nový video seznam"
 
-#: wp-includes/media.php:3020
+#: wp-includes/media.php:3022
 msgid "Create a new playlist"
 msgstr "Vytvořit nový audio seznam"
 
-#: wp-includes/media.php:3019
+#: wp-includes/media.php:3021
 msgid "Create a new gallery"
 msgstr "Vytvořit galerii"
 
-#: wp-includes/media.php:3018
+#: wp-includes/media.php:3020
 msgid "Insert Media"
 msgstr "Vložit soubor"
 
-#: wp-includes/media.php:3017
+#: wp-includes/media.php:3019
 msgid "Media Library"
 msgstr "Knihovna médií"
 
-#: wp-includes/media.php:3014
+#: wp-includes/media.php:3016
 msgid "Upload Images"
 msgstr "Nahrát obrázky"
 
-#: wp-includes/media.php:3013
+#: wp-includes/media.php:3015
 msgid "Upload Files"
 msgstr "Nahrávání souborů"
 
-#: wp-includes/media.php:3010
+#: wp-includes/media.php:3012
 msgid "Drag and drop to reorder media files."
 msgstr "Pokud chcete mediální soubory libovolně seřadit, tak je stačí snadno přesunout pomocí myši."
 
@@ -2860,53 +2860,53 @@ msgstr "Pokud chcete mediální soubory libovolně seřadit, tak je stačí snad
 #. If there is not a word you can use in your language to avoid issues with
 #. the 		   lack of plural support here, turn it into "selected: %d" then
 #. translate it.
-#: wp-includes/media.php:3009
+#: wp-includes/media.php:3011
 msgid "%d selected"
 msgstr "Zvolené soubory: %d"
 
-#: wp-includes/media.php:3004
+#: wp-includes/media.php:3006
 msgid "Back"
 msgstr "Zpět"
 
-#: wp-includes/media.php:2999
+#: wp-includes/media.php:3001
 msgid "Select"
 msgstr "Vybrat"
 
-#: wp-includes/media.php:2997
+#: wp-includes/media.php:2999
 msgid "Add Media"
 msgstr "Mediální soubory"
 
-#: wp-includes/media.php:2737 wp-includes/script-loader.php:369
+#: wp-includes/media.php:2739 wp-includes/script-loader.php:369
 #: wp-includes/script-loader.php:509
 msgid "(no title)"
 msgstr "(bez názvu)"
 
-#: wp-includes/media.php:2532
+#: wp-includes/media.php:2534
 msgid "No editor could be selected."
 msgstr "Pro obrázek nemohl být použit žádný editor."
 
-#: wp-includes/media.php:1500
+#: wp-includes/media.php:1502
 msgid "Bitrate Mode"
 msgstr "Způsob datového toku"
 
-#: wp-includes/media.php:1499
+#: wp-includes/media.php:1501
 msgid "Bitrate"
 msgstr "Přenosová rychlost"
 
-#: wp-includes/media.php:1497
+#: wp-includes/media.php:1499
 msgctxt "video or audio"
 msgid "Length"
 msgstr "Délka"
 
-#: wp-includes/media.php:1496
+#: wp-includes/media.php:1498
 msgid "Year"
 msgstr "Rok"
 
-#: wp-includes/media.php:1495
+#: wp-includes/media.php:1497
 msgid "Genre"
 msgstr "Žánr"
 
-#: wp-includes/media-template.php:1232 wp-includes/media.php:3025
+#: wp-includes/media-template.php:1232 wp-includes/media.php:3027
 msgid "No items found."
 msgstr "Nebyly nalezeny žádné položky."
 
@@ -2979,7 +2979,7 @@ msgstr "Nastavení zobrazení souboru"
 msgid "Alternative Text"
 msgstr "Alternativní text"
 
-#: wp-includes/media-template.php:888 wp-includes/media.php:3002
+#: wp-includes/media-template.php:888 wp-includes/media.php:3004
 msgid "Replace"
 msgstr "Nahradit"
 
@@ -3028,22 +3028,22 @@ msgid "Gallery Settings"
 msgstr "Nastavení galerie"
 
 #: wp-includes/media-template.php:693 wp-includes/media-template.php:768
-#: wp-includes/media-template.php:942 wp-includes/media.php:2764
+#: wp-includes/media-template.php:942 wp-includes/media.php:2766
 msgid "Full Size"
 msgstr "Původní velikost"
 
 #: wp-includes/media-template.php:692 wp-includes/media-template.php:767
-#: wp-includes/media-template.php:941 wp-includes/media.php:2763
+#: wp-includes/media-template.php:941 wp-includes/media.php:2765
 msgid "Large"
 msgstr "Velký obrázek"
 
 #: wp-includes/media-template.php:691 wp-includes/media-template.php:766
-#: wp-includes/media-template.php:940 wp-includes/media.php:2762
+#: wp-includes/media-template.php:940 wp-includes/media.php:2764
 msgid "Medium"
 msgstr "Střední velikost"
 
 #: wp-includes/media-template.php:690 wp-includes/media-template.php:765
-#: wp-includes/media-template.php:939 wp-includes/media.php:2761
+#: wp-includes/media-template.php:939 wp-includes/media.php:2763
 msgid "Thumbnail"
 msgstr "Náhled"
 
@@ -3104,7 +3104,7 @@ msgstr "Upravit výběr"
 msgid "Refresh"
 msgstr "Obnovit"
 
-#: wp-includes/media-template.php:497 wp-includes/media.php:3046
+#: wp-includes/media-template.php:497 wp-includes/media.php:3048
 msgid "Attachment Details"
 msgstr "Podrobné informace o souboru"
 
@@ -3129,7 +3129,7 @@ msgid "Deselect"
 msgstr "Odebrat"
 
 #: wp-includes/media-template.php:439 wp-includes/media-template.php:542
-#: wp-includes/media.php:3038
+#: wp-includes/media.php:3040
 msgid "Delete Permanently"
 msgstr "Smazat"
 
@@ -3164,12 +3164,12 @@ msgid "Alt Text"
 msgstr "Alternativní text"
 
 #: wp-includes/media-template.php:387 wp-includes/media-template.php:566
-#: wp-includes/media.php:1491
+#: wp-includes/media.php:1493
 msgid "Album"
 msgstr "Album"
 
 #: wp-includes/media-template.php:386 wp-includes/media-template.php:565
-#: wp-includes/media.php:1490
+#: wp-includes/media.php:1492
 msgid "Artist"
 msgstr "Autor"
 
@@ -3202,7 +3202,7 @@ msgid "File name:"
 msgstr "Název souboru:"
 
 #: wp-includes/media-template.php:332 wp-includes/media-template.php:525
-#: wp-includes/media.php:3069
+#: wp-includes/media.php:3071
 msgid "Edit Image"
 msgstr "Upravit obrázek"
 
@@ -3234,7 +3234,7 @@ msgstr "Pravidelná mřížka"
 msgid "List View"
 msgstr "Přehledný seznam"
 
-#: wp-includes/media-template.php:239 wp-includes/media.php:3078
+#: wp-includes/media-template.php:239 wp-includes/media.php:3080
 msgid "Suggested image dimensions:"
 msgstr "Doporučené rozměry obrázku:"
 
@@ -3850,7 +3850,7 @@ msgid "%1$s %2$s"
 msgstr "%1$s %2$s"
 
 #. translators: 1: month name, 2: 4-digit year
-#: wp-includes/general-template.php:1423 wp-includes/media.php:2942
+#: wp-includes/general-template.php:1423 wp-includes/media.php:2944
 msgid "%1$s %2$d"
 msgstr "%1$s %2$d"
 
@@ -4901,351 +4901,351 @@ msgstr "Žádné komentáře"
 msgid "% Comments"
 msgstr "Komentáře: %"
 
-#: wp-includes/class-wp-xmlrpc-server.php:5904
+#: wp-includes/class-wp-xmlrpc-server.php:5948
 msgid "The specified target URL does not exist."
 msgstr "Zadaná cílová URL adresa neexistuje."
 
-#: wp-includes/class-wp-xmlrpc-server.php:5870
+#: wp-includes/class-wp-xmlrpc-server.php:5914
 msgid "Pingback from %1$s to %2$s registered. Keep the web talking! :-)"
 msgstr "Pingback od %1$s pro %2$s byl zaznamenán. Pomáháme udržovat internetovou komunikaci a spolupráci :-)"
 
-#: wp-includes/class-wp-xmlrpc-server.php:5841
+#: wp-includes/class-wp-xmlrpc-server.php:5885
 msgid "The source URL does not contain a link to the target URL, and so cannot be used as a source."
 msgstr "Zdrojová URL adresa neobsahuje odkaz na cílovou URL adresu, takže nemůže být použita jako zdroj."
 
-#: wp-includes/class-wp-xmlrpc-server.php:5805
+#: wp-includes/class-wp-xmlrpc-server.php:5849
 msgid "We cannot find a title on that page."
 msgstr "Nepodařilo se najít název této stránky."
 
-#: wp-includes/class-wp-xmlrpc-server.php:5785
+#: wp-includes/class-wp-xmlrpc-server.php:5829
 msgid "The source URL does not exist."
 msgstr "Zdrojová URL adresa neexistuje."
 
-#: wp-includes/class-wp-xmlrpc-server.php:5761
+#: wp-includes/class-wp-xmlrpc-server.php:5805
 msgid "The pingback has already been registered."
 msgstr "Pingback už byl zaznamenán."
 
-#: wp-includes/class-wp-xmlrpc-server.php:5753
+#: wp-includes/class-wp-xmlrpc-server.php:5797
 msgid "The source URL and the target URL cannot both point to the same resource."
 msgstr "Zdrojová a cílová URL adresa nemohou odkazovat na stejný zdroj."
 
-#: wp-includes/class-wp-xmlrpc-server.php:5743
-#: wp-includes/class-wp-xmlrpc-server.php:5750
-#: wp-includes/class-wp-xmlrpc-server.php:5757
-#: wp-includes/class-wp-xmlrpc-server.php:5897
+#: wp-includes/class-wp-xmlrpc-server.php:5787
+#: wp-includes/class-wp-xmlrpc-server.php:5794
+#: wp-includes/class-wp-xmlrpc-server.php:5801
+#: wp-includes/class-wp-xmlrpc-server.php:5941
 msgid "The specified target URL cannot be used as a target. It either doesn&#8217;t exist, or it is not a pingback-enabled resource."
 msgstr "Zadaná URL adresa nemůže být použita jako cíl. Buď tato adresa vůbec neexistuje, nebo nemá povolené pingbacky."
 
-#: wp-includes/class-wp-xmlrpc-server.php:5708
+#: wp-includes/class-wp-xmlrpc-server.php:5752
 msgid "Is there no link to us?"
 msgstr "Jsou tu nějaké odkazy na nás?"
 
-#: wp-includes/class-wp-xmlrpc-server.php:5651
+#: wp-includes/class-wp-xmlrpc-server.php:5695
 msgid "Sorry, you cannot publish this post."
 msgstr "Nemůžete bohužel publikovat tento příspěvek."
 
-#: wp-includes/class-wp-xmlrpc-server.php:5479
+#: wp-includes/class-wp-xmlrpc-server.php:5523
 msgid "Sorry, you can not edit this post."
 msgstr "Nemůžete bohužel upravovat tento příspěvek."
 
-#: wp-includes/class-wp-xmlrpc-server.php:5314
+#: wp-includes/class-wp-xmlrpc-server.php:5358
 msgid "Could not write file %1$s (%2$s)"
 msgstr "Nepodařilo se zapisovat do souboru %1$s (%2$s)"
 
-#: wp-includes/class-wp-xmlrpc-server.php:4917
+#: wp-includes/class-wp-xmlrpc-server.php:4958
 msgid "Sorry, your entry could not be edited. Something wrong happened."
 msgstr "Příspěvek nemohl být bohužel upraven, protože se stala nějaká nečekaná chyba."
 
-#: wp-includes/class-wp-xmlrpc-server.php:4878
+#: wp-includes/class-wp-xmlrpc-server.php:4919
 msgid "Sorry, you do not have the right to publish this page."
 msgstr "Nemáte bohužel dostatečné oprávnění pro publikování této stránky."
 
-#: wp-includes/class-wp-xmlrpc-server.php:4770
+#: wp-includes/class-wp-xmlrpc-server.php:4811
 msgid "You are not allowed to change the page author as this user."
 msgstr "Nemáte dostatečné oprávnění pro změnu autora stránky na tohoto uživatele."
 
-#: wp-includes/class-wp-xmlrpc-server.php:4765
+#: wp-includes/class-wp-xmlrpc-server.php:4806
 msgid "You are not allowed to change the post author as this user."
 msgstr "Nemáte dostatečné oprávnění pro změnu autora příspěvku na tohoto uživatele."
 
-#: wp-includes/class-wp-xmlrpc-server.php:4445
+#: wp-includes/class-wp-xmlrpc-server.php:4484
 msgid "You are not allowed to create pages as this user."
 msgstr "Nemáte dostatečné oprávnění pro vytváření stránek, kde bude tento uživatel uveden jako autor."
 
-#: wp-includes/class-wp-xmlrpc-server.php:4412
-#: wp-includes/class-wp-xmlrpc-server.php:4720
+#: wp-includes/class-wp-xmlrpc-server.php:4451
+#: wp-includes/class-wp-xmlrpc-server.php:4761
 msgid "Invalid post format"
 msgstr "Neplatný formát příspěvku"
 
-#: wp-includes/class-wp-xmlrpc-server.php:4386
-#: wp-includes/class-wp-xmlrpc-server.php:4399
-#: wp-includes/class-wp-xmlrpc-server.php:4404
+#: wp-includes/class-wp-xmlrpc-server.php:4425
+#: wp-includes/class-wp-xmlrpc-server.php:4438
+#: wp-includes/class-wp-xmlrpc-server.php:4443
 msgid "Sorry, you are not allowed to publish posts on this site."
 msgstr "Nemáte bohužel dostatečné oprávnění pro publikování příspěvků na tomto webu."
 
-#: wp-includes/class-wp-xmlrpc-server.php:4375
+#: wp-includes/class-wp-xmlrpc-server.php:4414
 msgid "Sorry, you are not allowed to publish pages on this site."
 msgstr "Nemáte bohužel dostatečné oprávnění pro publikování stránek na tomto webu."
 
-#: wp-includes/class-wp-xmlrpc-server.php:4298
+#: wp-includes/class-wp-xmlrpc-server.php:4337
 msgid "For some strange yet very annoying reason, this post could not be deleted."
 msgstr "Z nějakých neznámých důvodů nelze tento příspěvek smazat."
 
-#: wp-includes/class-wp-xmlrpc-server.php:4293
+#: wp-includes/class-wp-xmlrpc-server.php:4332
 msgid "Sorry, you do not have the right to delete this post."
 msgstr "Nemáte bohužel dostatečné oprávnění pro smazání tohoto příspěvku."
 
-#: wp-includes/class-wp-xmlrpc-server.php:4249
+#: wp-includes/class-wp-xmlrpc-server.php:4288
 msgid "For some strange yet very annoying reason, this post could not be edited."
 msgstr "Z nějakých neznámých důvodů nelze tento příspěvek upravit."
 
-#: wp-includes/class-wp-xmlrpc-server.php:4235
-#: wp-includes/class-wp-xmlrpc-server.php:4880
+#: wp-includes/class-wp-xmlrpc-server.php:4274
+#: wp-includes/class-wp-xmlrpc-server.php:4921
 msgid "Sorry, you do not have the right to publish this post."
 msgstr "Nemáte bohužel dostatečné oprávnění pro publikování tohoto příspěvku."
 
-#: wp-includes/class-wp-xmlrpc-server.php:4232
-#: wp-includes/class-wp-xmlrpc-server.php:4706
+#: wp-includes/class-wp-xmlrpc-server.php:4271
+#: wp-includes/class-wp-xmlrpc-server.php:4747
 msgid "Sorry, you do not have the right to edit this post."
 msgstr "Nemáte bohužel dostatečné oprávnění pro úpravy tohoto příspěvku."
 
-#: wp-includes/class-wp-xmlrpc-server.php:4226
-#: wp-includes/class-wp-xmlrpc-server.php:4290
-#: wp-includes/class-wp-xmlrpc-server.php:5086
-#: wp-includes/class-wp-xmlrpc-server.php:5601
+#: wp-includes/class-wp-xmlrpc-server.php:4265
+#: wp-includes/class-wp-xmlrpc-server.php:4329
+#: wp-includes/class-wp-xmlrpc-server.php:5130
+#: wp-includes/class-wp-xmlrpc-server.php:5645
 msgid "Sorry, no such post."
 msgstr "Žádný takový příspěvek tu bohužel není."
 
-#: wp-includes/class-wp-xmlrpc-server.php:4123
-#: wp-includes/class-wp-xmlrpc-server.php:4134
+#: wp-includes/class-wp-xmlrpc-server.php:4162
+#: wp-includes/class-wp-xmlrpc-server.php:4173
 msgid "Sorry, that file cannot be edited."
 msgstr "Zvolený soubor bohužel nelze upravovat."
 
-#: wp-includes/class-wp-xmlrpc-server.php:4088
-#: wp-includes/class-wp-xmlrpc-server.php:5391
+#: wp-includes/class-wp-xmlrpc-server.php:4127
+#: wp-includes/class-wp-xmlrpc-server.php:5435
 msgid "Either there are no posts, or something went wrong."
 msgstr "Nejsou tu patrně žádné příspěvky, nebo se stala nějaká nečekaná chyba."
 
-#: wp-includes/class-wp-xmlrpc-server.php:3995
+#: wp-includes/class-wp-xmlrpc-server.php:4034
 msgid "Sorry, you do not have access to user data on this site."
 msgstr "Nemáte bohužel dostatečné oprávnění pro přístup k informacím o registrovaných uživatelích na tomto webu."
 
-#: wp-includes/class-wp-xmlrpc-server.php:3827
-#: wp-includes/class-wp-xmlrpc-server.php:3894
+#: wp-includes/class-wp-xmlrpc-server.php:3866
+#: wp-includes/class-wp-xmlrpc-server.php:3933
 msgid "Sorry, revisions are disabled."
 msgstr "Ukládání starších verzí není bohužel povoleno."
 
-#: wp-includes/class-wp-xmlrpc-server.php:3823
+#: wp-includes/class-wp-xmlrpc-server.php:3862
 msgid "Sorry, you are not allowed to edit posts."
 msgstr "Nemáte bohužel dostatečné oprávnění pro úpravy příspěvků."
 
-#: wp-includes/class-wp-xmlrpc-server.php:3820
-#: wp-includes/class-wp-xmlrpc-server.php:3881
-#: wp-includes/class-wp-xmlrpc-server.php:3884
-#: wp-includes/class-wp-xmlrpc-server.php:3887 wp-includes/revision.php:263
+#: wp-includes/class-wp-xmlrpc-server.php:3859
+#: wp-includes/class-wp-xmlrpc-server.php:3920
+#: wp-includes/class-wp-xmlrpc-server.php:3923
+#: wp-includes/class-wp-xmlrpc-server.php:3926 wp-includes/revision.php:263
 msgid "Invalid post ID"
 msgstr "Neplatné ID příspěvku"
 
-#: wp-includes/class-wp-xmlrpc-server.php:3714
+#: wp-includes/class-wp-xmlrpc-server.php:3753
 msgid "Sorry, you are not allowed to edit this post type."
 msgstr "Nemáte bohužel dostatečné oprávnění pro úpravy tohoto typu obsahu."
 
-#: wp-includes/class-wp-xmlrpc-server.php:3544
-#: wp-includes/class-wp-xmlrpc-server.php:3589
-#: wp-includes/class-wp-xmlrpc-server.php:5276
+#: wp-includes/class-wp-xmlrpc-server.php:3583
+#: wp-includes/class-wp-xmlrpc-server.php:3628
+#: wp-includes/class-wp-xmlrpc-server.php:5320
 msgid "You do not have permission to upload files."
 msgstr "Nemáte dostatečné oprávnění pro nahrávání souborů."
 
-#: wp-includes/class-wp-xmlrpc-server.php:3495
+#: wp-includes/class-wp-xmlrpc-server.php:3534
 msgid "You are not allowed to update options."
 msgstr "Nemáte dostatečné oprávnění pro aktualizaci nastavení webu."
 
-#: wp-includes/class-wp-xmlrpc-server.php:3331
+#: wp-includes/class-wp-xmlrpc-server.php:3370
 msgid "You are not allowed access to details about comments."
 msgstr "Nemáte dostatečné oprávnění pro zobrazení detailů o komentářích."
 
-#: wp-includes/class-wp-xmlrpc-server.php:3304
-#: wp-includes/class-wp-xmlrpc-server.php:3363
-#: wp-includes/class-wp-xmlrpc-server.php:3389
-#: wp-includes/class-wp-xmlrpc-server.php:3415
-#: wp-includes/class-wp-xmlrpc-server.php:3630
+#: wp-includes/class-wp-xmlrpc-server.php:3343
+#: wp-includes/class-wp-xmlrpc-server.php:3402
+#: wp-includes/class-wp-xmlrpc-server.php:3428
+#: wp-includes/class-wp-xmlrpc-server.php:3454
+#: wp-includes/class-wp-xmlrpc-server.php:3669
 msgid "You are not allowed access to details about this site."
 msgstr "Nemáte dostatečné oprávnění pro zobrazení detailních informací o tomto webu."
 
-#: wp-includes/class-wp-xmlrpc-server.php:3260
+#: wp-includes/class-wp-xmlrpc-server.php:3299
 msgid "A valid email address is required"
 msgstr "Platná emailová adresa je vyžadována"
 
-#: wp-includes/class-wp-xmlrpc-server.php:3258
+#: wp-includes/class-wp-xmlrpc-server.php:3297
 msgid "Comment author name and email are required"
 msgstr "Pro přidání komentáře musíte vyplnit své jméno a email"
 
-#: wp-includes/class-wp-xmlrpc-server.php:3214
+#: wp-includes/class-wp-xmlrpc-server.php:3253
 msgid "You must be registered to comment"
 msgstr "Musíte se zaregistrovat, abyste mohli přidávat komentáře."
 
-#: wp-includes/class-wp-xmlrpc-server.php:3168
+#: wp-includes/class-wp-xmlrpc-server.php:3207
 msgid "Sorry, the comment could not be edited. Something wrong happened."
 msgstr "Komentář nemohl být bohužel upraven, protože se stala nějaká nečekaná chyba."
 
-#: wp-includes/class-wp-xmlrpc-server.php:3136
+#: wp-includes/class-wp-xmlrpc-server.php:3175
 msgid "Invalid comment status."
 msgstr "Neplatný stav komentáře."
 
-#: wp-includes/class-wp-xmlrpc-server.php:2996
+#: wp-includes/class-wp-xmlrpc-server.php:3035
 msgid "Sorry, you cannot edit comments."
 msgstr "Nemůžete bohužel upravovat komentáře."
 
-#: wp-includes/class-wp-xmlrpc-server.php:2961
-#: wp-includes/class-wp-xmlrpc-server.php:3059
-#: wp-includes/class-wp-xmlrpc-server.php:3123
+#: wp-includes/class-wp-xmlrpc-server.php:3000
+#: wp-includes/class-wp-xmlrpc-server.php:3098
+#: wp-includes/class-wp-xmlrpc-server.php:3162
 msgid "Invalid comment ID."
 msgstr "Neplatné ID komentáře."
 
-#: wp-includes/class-wp-xmlrpc-server.php:2955
-#: wp-includes/class-wp-xmlrpc-server.php:3056
-#: wp-includes/class-wp-xmlrpc-server.php:3062
-#: wp-includes/class-wp-xmlrpc-server.php:3120
-#: wp-includes/class-wp-xmlrpc-server.php:3126
+#: wp-includes/class-wp-xmlrpc-server.php:2994
+#: wp-includes/class-wp-xmlrpc-server.php:3095
+#: wp-includes/class-wp-xmlrpc-server.php:3101
+#: wp-includes/class-wp-xmlrpc-server.php:3159
+#: wp-includes/class-wp-xmlrpc-server.php:3165
 msgid "You are not allowed to moderate comments on this site."
 msgstr "Nemáte dostatečné oprávnění pro moderování komentářů na tomto webu."
 
-#: wp-includes/class-wp-xmlrpc-server.php:2919
-#: wp-includes/class-wp-xmlrpc-server.php:5221
-#: wp-includes/class-wp-xmlrpc-server.php:5436
+#: wp-includes/class-wp-xmlrpc-server.php:2958
+#: wp-includes/class-wp-xmlrpc-server.php:5265
+#: wp-includes/class-wp-xmlrpc-server.php:5480
 msgid "Sorry, you must be able to edit posts on this site in order to view categories."
 msgstr "Omlouváme se, ale musíte mít právo upravovat příspěvky, abyste si mohli prohlížet rubriky na tomto webu."
 
-#: wp-includes/class-wp-xmlrpc-server.php:2880
+#: wp-includes/class-wp-xmlrpc-server.php:2919
 msgid "Sorry, you do not have the right to delete a category."
 msgstr "Nemáte bohužel dostatečné oprávnění pro smazání rubriky."
 
-#: wp-includes/class-wp-xmlrpc-server.php:2840
-#: wp-includes/class-wp-xmlrpc-server.php:2842
+#: wp-includes/class-wp-xmlrpc-server.php:2879
+#: wp-includes/class-wp-xmlrpc-server.php:2881
 msgid "Sorry, the new category failed."
 msgstr "Nepodařilo se vytvořit novou rubriku."
 
-#: wp-includes/class-wp-xmlrpc-server.php:2812
+#: wp-includes/class-wp-xmlrpc-server.php:2851
 msgid "Sorry, you do not have the right to add a category."
 msgstr "Nemáte bohužel dostatečné oprávnění pro vytvoření nové rubriky."
 
-#: wp-includes/class-wp-xmlrpc-server.php:2765
+#: wp-includes/class-wp-xmlrpc-server.php:2804
 msgid "Sorry, you must be able to edit posts on this site in order to view tags."
 msgstr "Omlouváme se, ale musíte mít právo upravovat příspěvky, abyste si mohli prohlížet štítky na tomto webu."
 
-#: wp-includes/class-wp-xmlrpc-server.php:2730
-#: wp-includes/class-wp-xmlrpc-server.php:4080
-#: wp-includes/class-wp-xmlrpc-server.php:5113
+#: wp-includes/class-wp-xmlrpc-server.php:2769
+#: wp-includes/class-wp-xmlrpc-server.php:4119
+#: wp-includes/class-wp-xmlrpc-server.php:5157
 msgid "Sorry, you cannot edit posts on this site."
 msgstr "Nemůžete bohužel upravovat příspěvky na tomto webu."
 
-#: wp-includes/class-wp-xmlrpc-server.php:2641
+#: wp-includes/class-wp-xmlrpc-server.php:2680
 msgid "Sorry, you do not have the right to edit this page."
 msgstr "Nemáte bohužel dostatečné oprávnění pro úpravy této stránky."
 
-#: wp-includes/class-wp-xmlrpc-server.php:2597
+#: wp-includes/class-wp-xmlrpc-server.php:2636
 msgid "Failed to delete the page."
 msgstr "Nepodařilo se smazat tuto stránku."
 
-#: wp-includes/class-wp-xmlrpc-server.php:2592
+#: wp-includes/class-wp-xmlrpc-server.php:2631
 msgid "Sorry, you do not have the right to delete this page."
 msgstr "Nemáte bohužel dostatečné oprávnění pro smazání této stránky."
 
-#: wp-includes/class-wp-xmlrpc-server.php:2514
-#: wp-includes/class-wp-xmlrpc-server.php:2679
+#: wp-includes/class-wp-xmlrpc-server.php:2553
+#: wp-includes/class-wp-xmlrpc-server.php:2718
 msgid "Sorry, you cannot edit pages."
 msgstr "Nemůžete bohužel upravovat stránky."
 
-#: wp-includes/class-wp-xmlrpc-server.php:2487
-#: wp-includes/class-wp-xmlrpc-server.php:2588
-#: wp-includes/class-wp-xmlrpc-server.php:2637
+#: wp-includes/class-wp-xmlrpc-server.php:2526
+#: wp-includes/class-wp-xmlrpc-server.php:2627
+#: wp-includes/class-wp-xmlrpc-server.php:2676
 msgid "Sorry, no such page."
 msgstr "Žádná taková stránka tu bohužel není."
 
-#: wp-includes/class-wp-xmlrpc-server.php:2476
+#: wp-includes/class-wp-xmlrpc-server.php:2515
 msgid "Sorry, you cannot edit this page."
 msgstr "Nemůžete bohužel upravovat tuto stránku."
 
-#: wp-includes/class-wp-xmlrpc-server.php:2443
+#: wp-includes/class-wp-xmlrpc-server.php:2482
 msgid "Sorry, the user cannot be updated."
 msgstr "Zvolený uživatel bohužel nemůže být aktualizován."
 
-#: wp-includes/class-wp-xmlrpc-server.php:2366
-#: wp-includes/class-wp-xmlrpc-server.php:2409
+#: wp-includes/class-wp-xmlrpc-server.php:2405
+#: wp-includes/class-wp-xmlrpc-server.php:2448
 msgid "Sorry, you cannot edit your profile."
 msgstr "Nemůžete bohužel upravovat svůj profil."
 
-#: wp-includes/class-wp-xmlrpc-server.php:2313
+#: wp-includes/class-wp-xmlrpc-server.php:2352
 msgid "The role specified is not valid"
 msgstr "Zvolená uživatelská úroveň není platná"
 
-#: wp-includes/class-wp-xmlrpc-server.php:2297
+#: wp-includes/class-wp-xmlrpc-server.php:2336
 msgid "Sorry, you cannot list users."
 msgstr "Nemůžete bohužel prohlížet registrované uživatele."
 
-#: wp-includes/class-wp-xmlrpc-server.php:2247
+#: wp-includes/class-wp-xmlrpc-server.php:2286
 msgid "Invalid user ID"
 msgstr "Neplatné ID uživatele."
 
-#: wp-includes/class-wp-xmlrpc-server.php:2242
+#: wp-includes/class-wp-xmlrpc-server.php:2281
 msgid "Sorry, you cannot edit users."
 msgstr "Nemůžete bohužel upravovat uživatele."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1982
-#: wp-includes/class-wp-xmlrpc-server.php:2035
-#: wp-includes/class-wp-xmlrpc-server.php:2123
+#: wp-includes/class-wp-xmlrpc-server.php:2021
+#: wp-includes/class-wp-xmlrpc-server.php:2074
+#: wp-includes/class-wp-xmlrpc-server.php:2162
 msgid "You are not allowed to assign terms in this taxonomy."
 msgstr "Nemáte dostatečné oprávnění pro zařazování položek do této taxonomie."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1931
+#: wp-includes/class-wp-xmlrpc-server.php:1970
 msgid "Sorry, deleting the term failed."
 msgstr "Položku se bohužel nepodařilo smazat."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1915
+#: wp-includes/class-wp-xmlrpc-server.php:1954
 msgid "You are not allowed to delete terms in this taxonomy."
 msgstr "Nemáte dostatečné oprávnění pro mazání položek u této taxonomie."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1873
+#: wp-includes/class-wp-xmlrpc-server.php:1912
 msgid "Sorry, editing the term failed."
 msgstr "Položku se bohužel nepodařilo upravit."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1847
+#: wp-includes/class-wp-xmlrpc-server.php:1886
 msgid "This taxonomy is not hierarchical so you can't set a parent."
 msgstr "Zvolená taxonomie není hierarchická, takže není možné nastavit položku jako nadřazenou."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1823
+#: wp-includes/class-wp-xmlrpc-server.php:1862
 msgid "You are not allowed to edit terms in this taxonomy."
 msgstr "Nemáte dostatečné oprávnění pro úpravy položek u této taxonomie."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1774
+#: wp-includes/class-wp-xmlrpc-server.php:1813
 msgid "Sorry, your term could not be created. Something wrong happened."
 msgstr "Položka nemohla být bohužel vytvořena, protože se stala nějaká nečekaná chyba."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1757
-#: wp-includes/class-wp-xmlrpc-server.php:1856 wp-includes/taxonomy.php:2876
+#: wp-includes/class-wp-xmlrpc-server.php:1796
+#: wp-includes/class-wp-xmlrpc-server.php:1895 wp-includes/taxonomy.php:2876
 #: wp-includes/taxonomy.php:3407
 msgid "Parent term does not exist."
 msgstr "Nadřazená položka neexistuje."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1748
+#: wp-includes/class-wp-xmlrpc-server.php:1787
 msgid "This taxonomy is not hierarchical."
 msgstr "Zvolená taxonomie není hierarchická."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1744
-#: wp-includes/class-wp-xmlrpc-server.php:1842
+#: wp-includes/class-wp-xmlrpc-server.php:1783
+#: wp-includes/class-wp-xmlrpc-server.php:1881
 msgid "The term name cannot be empty."
 msgstr "Název položky nemůže zůstat prázdný."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1735
+#: wp-includes/class-wp-xmlrpc-server.php:1774
 msgid "You are not allowed to create terms in this taxonomy."
 msgstr "Nemáte dostatečné oprávnění pro vytváření položek u této taxonomie."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1730
-#: wp-includes/class-wp-xmlrpc-server.php:1818
-#: wp-includes/class-wp-xmlrpc-server.php:1910
-#: wp-includes/class-wp-xmlrpc-server.php:1977
-#: wp-includes/class-wp-xmlrpc-server.php:2030
-#: wp-includes/class-wp-xmlrpc-server.php:2118 wp-includes/taxonomy.php:594
+#: wp-includes/class-wp-xmlrpc-server.php:1769
+#: wp-includes/class-wp-xmlrpc-server.php:1857
+#: wp-includes/class-wp-xmlrpc-server.php:1949
+#: wp-includes/class-wp-xmlrpc-server.php:2016
+#: wp-includes/class-wp-xmlrpc-server.php:2069
+#: wp-includes/class-wp-xmlrpc-server.php:2157 wp-includes/taxonomy.php:594
 #: wp-includes/taxonomy.php:1323 wp-includes/taxonomy.php:1472
 #: wp-includes/taxonomy.php:1634 wp-includes/taxonomy.php:2645
 #: wp-includes/taxonomy.php:2852 wp-includes/taxonomy.php:3068
@@ -5253,140 +5253,140 @@ msgstr "Nemáte dostatečné oprávnění pro vytváření položek u této taxo
 msgid "Invalid taxonomy"
 msgstr "Neplatná taxonomie"
 
-#: wp-includes/class-wp-xmlrpc-server.php:1651
+#: wp-includes/class-wp-xmlrpc-server.php:1690
 msgid "Sorry, you are not allowed to edit posts in this post type"
 msgstr "Nemáte bohužel dostatečné oprávnění pro úpravy příspěvků u tohoto typu obsahu."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1645
+#: wp-includes/class-wp-xmlrpc-server.php:1684
 msgid "The post type specified is not valid"
 msgstr "Zvolený typ obsahu není platný"
 
-#: wp-includes/class-wp-xmlrpc-server.php:1588
-#: wp-includes/class-wp-xmlrpc-server.php:3890
-#: wp-includes/class-wp-xmlrpc-server.php:4035
-#: wp-includes/class-wp-xmlrpc-server.php:4989
-#: wp-includes/class-wp-xmlrpc-server.php:5323
-#: wp-includes/class-wp-xmlrpc-server.php:5527
+#: wp-includes/class-wp-xmlrpc-server.php:1627
+#: wp-includes/class-wp-xmlrpc-server.php:3929
+#: wp-includes/class-wp-xmlrpc-server.php:4074
+#: wp-includes/class-wp-xmlrpc-server.php:5033
+#: wp-includes/class-wp-xmlrpc-server.php:5367
+#: wp-includes/class-wp-xmlrpc-server.php:5571
 msgid "Sorry, you cannot edit this post."
 msgstr "Nemůžete bohužel upravovat tento příspěvek."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1502
+#: wp-includes/class-wp-xmlrpc-server.php:1541
 msgid "The post cannot be deleted."
 msgstr "Příspěvek nemůže být smazán."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1497
+#: wp-includes/class-wp-xmlrpc-server.php:1536
 msgid "Sorry, you are not allowed to delete this post."
 msgstr "Nemáte bohužel dostatečné oprávnění pro smazání tohoto příspěvku."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1439
+#: wp-includes/class-wp-xmlrpc-server.php:1478
 msgid "There is a revision of this post that is more recent."
 msgstr "Existuje novější verze tohoto příspěvku."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1393
-#: wp-includes/class-wp-xmlrpc-server.php:4182
-#: wp-includes/class-wp-xmlrpc-server.php:4615
+#: wp-includes/class-wp-xmlrpc-server.php:1432
+#: wp-includes/class-wp-xmlrpc-server.php:4221
+#: wp-includes/class-wp-xmlrpc-server.php:4656
 msgid "Sorry, your entry could not be posted. Something wrong happened."
 msgstr "Příspěvek nemohl být bohužel vytvořen, protože se stala nějaká nečekaná chyba."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1341
+#: wp-includes/class-wp-xmlrpc-server.php:1380
 msgid "Sorry, you are not allowed to add a term to one of the given taxonomies."
 msgstr "Nemáte bohužel dostatečné oprávnění pro vytvoření nové položky pro některou z dostupných taxonomií."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1334
+#: wp-includes/class-wp-xmlrpc-server.php:1373
 msgid "Ambiguous term name used in a hierarchical taxonomy. Please use term ID instead."
 msgstr "V hierarchické taxonomii byl použit nejednoznačný název položky. Použijte prosím raději ID položky."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1299
-#: wp-includes/class-wp-xmlrpc-server.php:1836
-#: wp-includes/class-wp-xmlrpc-server.php:1923
-#: wp-includes/class-wp-xmlrpc-server.php:1990 wp-includes/taxonomy.php:2867
+#: wp-includes/class-wp-xmlrpc-server.php:1338
+#: wp-includes/class-wp-xmlrpc-server.php:1875
+#: wp-includes/class-wp-xmlrpc-server.php:1962
+#: wp-includes/class-wp-xmlrpc-server.php:2029 wp-includes/taxonomy.php:2867
 msgid "Invalid term ID"
 msgstr "Neplatné ID položky"
 
-#: wp-includes/class-wp-xmlrpc-server.php:1291
-#: wp-includes/class-wp-xmlrpc-server.php:1315
+#: wp-includes/class-wp-xmlrpc-server.php:1330
+#: wp-includes/class-wp-xmlrpc-server.php:1354
 msgid "Sorry, you are not allowed to assign a term to one of the given taxonomies."
 msgstr "Nemáte bohužel dostatečné oprávnění pro zařazení položky do některé z dostupných taxonomií."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1288
-#: wp-includes/class-wp-xmlrpc-server.php:1312
+#: wp-includes/class-wp-xmlrpc-server.php:1327
+#: wp-includes/class-wp-xmlrpc-server.php:1351
 msgid "Sorry, one of the given taxonomies is not supported by the post type."
 msgstr "Některá z dostupných taxonomií není bohužel podporována tímto typem obsahu."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1267
-#: wp-includes/class-wp-xmlrpc-server.php:3550
-#: wp-includes/class-wp-xmlrpc-server.php:4594
-#: wp-includes/class-wp-xmlrpc-server.php:4936
+#: wp-includes/class-wp-xmlrpc-server.php:1306
+#: wp-includes/class-wp-xmlrpc-server.php:3589
+#: wp-includes/class-wp-xmlrpc-server.php:4635
+#: wp-includes/class-wp-xmlrpc-server.php:4980
 msgid "Invalid attachment ID."
 msgstr "Neplatné ID mediálního souboru."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1254
+#: wp-includes/class-wp-xmlrpc-server.php:1191
 msgid "Sorry, you are not allowed to stick this post."
 msgstr "Nemáte bohužel dostatečné oprávnění pro zvýraznění tohoto příspěvku."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1249
+#: wp-includes/class-wp-xmlrpc-server.php:1183
 msgid "Sorry, you cannot stick a private post."
 msgstr "Nemůžete bohužel zvýrazňovat soukromý příspěvek."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1216
-#: wp-includes/class-wp-xmlrpc-server.php:4452
+#: wp-includes/class-wp-xmlrpc-server.php:1266
+#: wp-includes/class-wp-xmlrpc-server.php:4491
 msgid "Invalid author ID."
 msgstr "Neplatné ID autora."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1211
-#: wp-includes/class-wp-xmlrpc-server.php:4441
+#: wp-includes/class-wp-xmlrpc-server.php:1261
+#: wp-includes/class-wp-xmlrpc-server.php:4480
 msgid "You are not allowed to create posts as this user."
 msgstr "Nemáte dostatečné oprávnění pro vytváření příspěvků, kde bude tento uživatel uveden jako autor."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1206
+#: wp-includes/class-wp-xmlrpc-server.php:1256
 msgid "Sorry, you are not allowed to create password protected posts in this post type"
 msgstr "Nemáte bohužel dostatečné oprávnění pro vytváření zaheslovaných příspěvků u tohoto typu obsahu."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1197
+#: wp-includes/class-wp-xmlrpc-server.php:1247
 msgid "Sorry, you are not allowed to publish posts in this post type"
 msgstr "Nemáte bohužel dostatečné oprávnění pro publikování příspěvků u tohoto typu obsahu."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1192
+#: wp-includes/class-wp-xmlrpc-server.php:1242
 msgid "Sorry, you are not allowed to create private posts in this post type"
 msgstr "Nemáte bohužel dostatečné oprávnění pro vytváření soukromých příspěvků u tohoto typu obsahu."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1183
-#: wp-includes/class-wp-xmlrpc-server.php:4162
+#: wp-includes/class-wp-xmlrpc-server.php:1233
+#: wp-includes/class-wp-xmlrpc-server.php:4201
 msgid "Sorry, you are not allowed to post on this site."
 msgstr "Nemáte bohužel dostatečné oprávnění pro vytváření nových příspěvků na tomto webu."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1180
-#: wp-includes/class-wp-xmlrpc-server.php:4714
+#: wp-includes/class-wp-xmlrpc-server.php:1230
+#: wp-includes/class-wp-xmlrpc-server.php:4755
 msgid "The post type may not be changed."
 msgstr "Stávající typ obsahu nemůže být změněn."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1178
+#: wp-includes/class-wp-xmlrpc-server.php:1228
 msgid "Sorry, you are not allowed to edit this post."
 msgstr "Nemáte bohužel dostatečné oprávnění pro úpravy tohoto příspěvku."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1176
-#: wp-includes/class-wp-xmlrpc-server.php:1434
-#: wp-includes/class-wp-xmlrpc-server.php:1494
-#: wp-includes/class-wp-xmlrpc-server.php:1585
-#: wp-includes/class-wp-xmlrpc-server.php:2473
-#: wp-includes/class-wp-xmlrpc-server.php:3228
-#: wp-includes/class-wp-xmlrpc-server.php:3231
-#: wp-includes/class-wp-xmlrpc-server.php:4032
-#: wp-includes/class-wp-xmlrpc-server.php:4703
-#: wp-includes/class-wp-xmlrpc-server.php:4986
-#: wp-includes/class-wp-xmlrpc-server.php:5476
-#: wp-includes/class-wp-xmlrpc-server.php:5524
-#: wp-includes/class-wp-xmlrpc-server.php:5648 wp-includes/post.php:3125
+#: wp-includes/class-wp-xmlrpc-server.php:1226
+#: wp-includes/class-wp-xmlrpc-server.php:1473
+#: wp-includes/class-wp-xmlrpc-server.php:1533
+#: wp-includes/class-wp-xmlrpc-server.php:1624
+#: wp-includes/class-wp-xmlrpc-server.php:2512
+#: wp-includes/class-wp-xmlrpc-server.php:3267
+#: wp-includes/class-wp-xmlrpc-server.php:3270
+#: wp-includes/class-wp-xmlrpc-server.php:4071
+#: wp-includes/class-wp-xmlrpc-server.php:4744
+#: wp-includes/class-wp-xmlrpc-server.php:5030
+#: wp-includes/class-wp-xmlrpc-server.php:5520
+#: wp-includes/class-wp-xmlrpc-server.php:5568
+#: wp-includes/class-wp-xmlrpc-server.php:5692 wp-includes/post.php:3125
 #: wp-includes/post.php:3583
 msgid "Invalid post ID."
 msgstr "Neplatné ID příspěvku."
 
-#: wp-includes/class-wp-xmlrpc-server.php:1170
-#: wp-includes/class-wp-xmlrpc-server.php:3709
-#: wp-includes/class-wp-xmlrpc-server.php:4390
-#: wp-includes/class-wp-xmlrpc-server.php:4448
-#: wp-includes/class-wp-xmlrpc-server.php:4710
-#: wp-includes/class-wp-xmlrpc-server.php:4774
+#: wp-includes/class-wp-xmlrpc-server.php:1220
+#: wp-includes/class-wp-xmlrpc-server.php:3748
+#: wp-includes/class-wp-xmlrpc-server.php:4429
+#: wp-includes/class-wp-xmlrpc-server.php:4487
+#: wp-includes/class-wp-xmlrpc-server.php:4751
+#: wp-includes/class-wp-xmlrpc-server.php:4815
 msgid "Invalid post type"
 msgstr "Neplatný typ obsahu"
 
@@ -5619,7 +5619,7 @@ msgid "Link Text"
 msgstr "Text odkazu"
 
 #: wp-includes/class-wp-editor.php:1444 wp-includes/media-template.php:376
-#: wp-includes/media-template.php:555 wp-includes/media.php:2996
+#: wp-includes/media-template.php:555 wp-includes/media.php:2998
 msgid "URL"
 msgstr "URL"
 
@@ -5692,7 +5692,7 @@ msgstr "Tučně (Ctrl + B)"
 msgid "Exit fullscreen"
 msgstr "Přepnout zpět"
 
-#: wp-includes/class-wp-editor.php:1247 wp-includes/media.php:3001
+#: wp-includes/class-wp-editor.php:1247 wp-includes/media.php:3003
 #: wp-includes/script-loader.php:367 wp-includes/script-loader.php:465
 msgid "Update"
 msgstr "Aktualizovat"
@@ -6345,7 +6345,7 @@ msgid "Close"
 msgstr "Zavřít"
 
 #: wp-includes/class-wp-editor.php:818 wp-includes/class-wp-editor.php:1482
-#: wp-includes/media.php:3000 wp-includes/script-loader.php:397
+#: wp-includes/media.php:3002 wp-includes/script-loader.php:397
 #: wp-includes/script-loader.php:455
 msgid "Cancel"
 msgstr "Zrušit"
@@ -6577,7 +6577,7 @@ msgstr "Odstranit widget a přesunout ho i s původním nastavením mezi neaktiv
 msgid "Save and preview changes before publishing them."
 msgstr "Uložit a zobrazit provedené změny ještě před jejich zveřejněním."
 
-#: wp-includes/class-wp-customize-widgets.php:632 wp-includes/media.php:3039
+#: wp-includes/class-wp-customize-widgets.php:632 wp-includes/media.php:3041
 msgid "Apply"
 msgstr "Použít"
 
@@ -6884,7 +6884,7 @@ msgstr "Obrázek v záhlaví"
 msgid "Background Image"
 msgstr "Obrázek na pozadí"
 
-#: wp-includes/class-wp-customize-control.php:916 wp-includes/media.php:3072
+#: wp-includes/class-wp-customize-control.php:916 wp-includes/media.php:3074
 msgid "Choose Image"
 msgstr "Zvolit obrázek"
 
@@ -6916,7 +6916,7 @@ msgstr "Zatím nebyl zvolen žádný soubor"
 #: wp-includes/media-template.php:1047 wp-includes/media-template.php:1061
 #: wp-includes/media-template.php:1130 wp-includes/media-template.php:1142
 #: wp-includes/media-template.php:1163 wp-includes/media-template.php:1195
-#: wp-includes/media.php:3003
+#: wp-includes/media.php:3005
 msgid "Remove"
 msgstr "Odstranit"
 
@@ -6987,7 +6987,7 @@ msgstr "Cílový adresář pro streamování souboru patrně neexistuje nebo do 
 msgid "User has blocked requests through HTTP."
 msgstr "Uživatel zablokoval požadavky přes HTTP protokol."
 
-#: wp-includes/class-http.php:193 wp-includes/class-wp-xmlrpc-server.php:5703
+#: wp-includes/class-http.php:193 wp-includes/class-wp-xmlrpc-server.php:5747
 msgid "A valid URL was not provided."
 msgstr "Nebyla zadána platná URL adresa."
 
@@ -7053,7 +7053,7 @@ msgid "XML error: %s at line %d"
 msgstr "Chyba XML: %s (řádek %d)"
 
 #: wp-includes/admin-bar.php:820 wp-includes/admin-bar.php:821
-#: wp-includes/class-wp-editor.php:1457 wp-includes/media.php:2998
+#: wp-includes/class-wp-editor.php:1457 wp-includes/media.php:3000
 msgid "Search"
 msgstr "Hledat"
 
