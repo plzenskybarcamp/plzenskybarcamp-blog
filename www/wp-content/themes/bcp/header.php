@@ -27,6 +27,7 @@
 	<script src="<?php echo get_template_directory_uri(); ?>/js/html5.js"></script>
 	<![endif]-->
 	<?php wp_head(); ?>
+	<link rel="shortcut icon" href="https://plzenskybarcamp.cz/favicon.ico">
 </head>
 
 <body <?php body_class(); ?>>
